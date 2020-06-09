@@ -1,7 +1,7 @@
 # Virgil CommKit
 
 [![GitHub license](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/VirgilSecurity/virgil/blob/master/LICENSE)
-[![Release date](https://img.shields.io/badge/realese%20date-May%202020-important)](https://virgilsecurity.com/secure-communications-platform/)
+[![Release date](https://img.shields.io/badge/release%20date-%202020-important)](https://virgilsecurity.com/secure-communications-platform/)
 
 [Introduction](#introduction) | [CommKit Features](#commkit-features) | [Security Features](#security-features) | [License](#license) | [Support](#support)
 
